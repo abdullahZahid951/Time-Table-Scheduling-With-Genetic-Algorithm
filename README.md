@@ -118,3 +118,7 @@ The Timetable Scheduling Genetic Algorithm project aims to solve the complex pro
 - **Summary**: The project offers a systematic and scalable solution to the timetable scheduling problem, leveraging genetic algorithms to produce optimized timetables while considering both hard and soft constraints.
 
 Overall, the project provides a robust framework for addressing real-world scheduling challenges in educational institutions, offering flexibility and efficiency in timetable creation.
+
+## Improvement:
+
+As you can see that my visualize_timetable func for some reason is not allocating blocks correctly. So if you have a solution kindly share with me and connit to the code. 
